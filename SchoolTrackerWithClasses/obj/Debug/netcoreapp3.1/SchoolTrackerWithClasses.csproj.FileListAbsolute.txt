@@ -1,0 +1,14 @@
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.csproj.AssemblyReference.cache
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.AssemblyInfoInputs.cache
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.AssemblyInfo.cs
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.csproj.CoreCompileInputs.cache
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/bin/Debug/netcoreapp3.1/SchoolTrackerWithClasses
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/bin/Debug/netcoreapp3.1/SchoolTrackerWithClasses.deps.json
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/bin/Debug/netcoreapp3.1/SchoolTrackerWithClasses.runtimeconfig.json
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/bin/Debug/netcoreapp3.1/SchoolTrackerWithClasses.runtimeconfig.dev.json
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/bin/Debug/netcoreapp3.1/SchoolTrackerWithClasses.dll
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/bin/Debug/netcoreapp3.1/SchoolTrackerWithClasses.pdb
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.dll
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.pdb
+/Users/thomas/Projects/SchoolTrackerWithClasses/SchoolTrackerWithClasses/obj/Debug/netcoreapp3.1/SchoolTrackerWithClasses.genruntimeconfig.cache
